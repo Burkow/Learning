@@ -10,3 +10,6 @@ def list(list_like_variable):
     a = []
     for element in list_like_variable:
         a.push()is
+
+
+#YOYOYOYOYOYOYOYOYOYYOYOYOYOYOYO
